@@ -1,6 +1,6 @@
 <h1 align="center">Hey, my name is 0x809</h1>
 
-- 🔭 I’m currently working on a csgo cheat!
+- 🔭 I’m currently working on **a csgo cheat**
 
 - 🌱 I’m currently learning **c++**
 
